@@ -1,6 +1,7 @@
 👋 Hi, I’m Mehdi
 <br/>
 **`Digital Craftsman (Developer/Creator)`**
+<br/>
 I’m a passionate developer who enjoys building efficient, creative, and scalable solutions. Most of my work revolves around Linux, Python, and modern development workflows, Integrated with machine learning. I’m always learning, experimenting with new tools, and sharing projects that reflect my journey in software development and Deep learning/ML.  
 
 
